@@ -1,4 +1,28 @@
 body {
   background-color: black;
   color: white;
+  font-size: 20px;
+}
+.schedule {
+  float: left;
+  background-color: #029ef3;
+  border: 10px solid white;
+  padding: 15px;
+}
+
+body {
+  padding: 100px;
+}
+
+.logo {
+  float: right;
+}
+
+h1 {
+  font-family:impact;
+}
+
+.column {
+  width: 300px;
+  float: left;
 }
